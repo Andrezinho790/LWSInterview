@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: BlueHat
   m_EditorClassIdentifier: 
   prefab: {fileID: 0}
-  type: 0
-  description: 
+  type: 1
+  description: A simple blue hat
