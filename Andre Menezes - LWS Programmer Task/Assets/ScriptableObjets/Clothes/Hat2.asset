@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40fd4d8caf5b13a4cb0c65e21f9f0aa5, type: 3}
+  m_Name: Hat2
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 0}
+  type: 0
+  purchasePrice: 0
+  salePrice: 0
+  name: Lucky Hat
+  description: 
+  icon: {fileID: 0}
+  AllClothAnimations:
+  - {fileID: 7400000, guid: 8acd0084b04d83c42b2936e1ae7c8404, type: 2}
+  - {fileID: 7400000, guid: d25bf87d533537e418dceefe3d5606dc, type: 2}
+  - {fileID: 7400000, guid: 005945c7d6f32ac45961432668b49222, type: 2}
+  - {fileID: 7400000, guid: 8704e7a8e40fc1842b35416bfde5e309, type: 2}
+  - {fileID: 7400000, guid: efcb0178ebef53c499001dbc0ea50ffd, type: 2}
+  - {fileID: 7400000, guid: ad983aa1d6cc8b24cb46b3c77136e59f, type: 2}
+  - {fileID: 7400000, guid: bdf4044e4c92ab045b4f4f568009953a, type: 2}
+  - {fileID: 7400000, guid: 08af374068dc9ff4aa8422b11a211f8a, type: 2}
+  ClothAnimationID: 0

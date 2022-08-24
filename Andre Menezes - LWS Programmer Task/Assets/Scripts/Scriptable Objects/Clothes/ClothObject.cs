@@ -20,5 +20,7 @@ public abstract class ClothObject : ScriptableObject
     [TextArea(5,20)]
     public string description;
     public Sprite icon;
+    public List<AnimationClip> AllClothAnimations;
+    public int ClothAnimationID;
 }
 

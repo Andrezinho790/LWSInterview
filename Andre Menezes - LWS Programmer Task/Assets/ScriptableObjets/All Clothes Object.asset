@@ -12,3 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33c5bd35a1d6a9242b87186c9e1a651c, type: 3}
   m_Name: All Clothes Object
   m_EditorClassIdentifier: 
+  AllClothesBase:
+  - part: 0
+    partReference: {fileID: 11400000, guid: f92c41b403e199d48a51fe234ed626eb, type: 2}
+  - part: 1
+    partReference: {fileID: 11400000, guid: ed4bb8206a424b24594caffd9d7da81a, type: 2}

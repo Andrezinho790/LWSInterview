@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4959d7a0dd9eb854492aff0128619791, type: 3}
+  m_Name: Shirt2
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 0}
+  type: 1
+  purchasePrice: 0
+  salePrice: 0
+  name: 'Shirt 2
+
+'
+  description: 
+  icon: {fileID: 0}
+  AllClothAnimations:
+  - {fileID: 7400000, guid: 50749729dfed1224cba0e7830e2fe16b, type: 2}
+  - {fileID: 7400000, guid: 988d3075d2db2fd4bab2fc546e908a1a, type: 2}
+  - {fileID: 7400000, guid: b3847538a1826034180b27c02a64f269, type: 2}
+  - {fileID: 7400000, guid: aa80e4acd12671d408636f21e96745b7, type: 2}
+  - {fileID: 7400000, guid: bdf953c94326d5143b8b733994f2a8e5, type: 2}
+  - {fileID: 7400000, guid: 098a3701de7dd0f4897303973eaf77ca, type: 2}
+  - {fileID: 7400000, guid: 3aaaeeec04762344cb48c58dcbdbf475, type: 2}
+  - {fileID: 7400000, guid: 6372da256f210f04497b04d5b28b4467, type: 2}
+  ClothAnimationID: 0
