@@ -21,3 +21,4 @@ public abstract class ClothObject : ScriptableObject
     public string description;
     public Sprite icon;
 }
+
